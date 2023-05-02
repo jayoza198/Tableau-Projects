@@ -8,6 +8,8 @@ Here is a list of the projects included in this repository:
 
 1. Project 1 : Movie Dashboard - This dashboard provides the movies, average duration, average IMDB score, gross revenue, total movies by a particular director. User can select from over 2400+ directors. 
 
+Check out the project here : https://public.tableau.com/app/profile/jay.oza1416/viz/movie_dashboard_16830043825340/Dashboard1?publish=yes
+
 ## Contributing
 
 If you have any suggestions or feedback on my Tableau projects, please feel free to open an issue or pull request in this repository. I am always looking for ways to improve my skills and create more impactful data visualizations.
