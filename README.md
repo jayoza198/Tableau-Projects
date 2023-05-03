@@ -10,6 +10,8 @@ Here is a list of the projects included in this repository:
 
 Check out the project here : https://public.tableau.com/app/profile/jay.oza1416/viz/movie_dashboard_16830043825340/Dashboard1?publish=yes
 
+2. Project 2 : Customer Analysis Dashboard - 
+
 ## Contributing
 
 If you have any suggestions or feedback on my Tableau projects, please feel free to open an issue or pull request in this repository. I am always looking for ways to improve my skills and create more impactful data visualizations.
